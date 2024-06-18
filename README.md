@@ -1,4 +1,4 @@
-============================================================================
+===========================================================================
 
 Extract.bat
 
@@ -20,9 +20,9 @@ Wait for the batch file to process the video.
 Check the same directory for the extracted PNG frames and MP3 audio file.
 Press any key to close the command prompt window after verifying the output.
 
-=============================================================================
+===========================================================================
 
-=============================================================================
+===========================================================================
 
 Make.bat
 
@@ -44,4 +44,4 @@ Wait for the batch file to process the files and create final_output.mp4.
 Optionally, uncomment the del commands to delete intermediate files (frame-*.png, output_video.mp4, output_audio.mp3) if you don't need them anymore.
 Press any key to close the command prompt window after verifying the output.
 
-=============================================================================
+===========================================================================
